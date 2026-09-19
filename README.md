@@ -24,6 +24,14 @@
 <br />
 <br />
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/meteor.svg">
+  <img src="./assets/meteor.svg" alt="Meteor" width="100%" />
+</picture>
+
+<br />
+<br />
+
 <a href="https://github.com/ThomasArya">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ThomasArya&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&hide_title=true&icon_color=A855F7&text_color=22D3EE" alt="Stats" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasArya&layout=compact&langs_count=7&theme=react&hide_border=true&hide_title=true&text_color=22D3EE" alt="Languages" />
@@ -54,6 +62,11 @@
 <br />
 
 <img src="https://raw.githubusercontent.com/ThomasArya/ThomasArya/output/github-contribution-grid-snake-dark.svg" alt="Snake" width="100%" />
+
+<br />
+<br />
+
+<img src="https://raw.githubusercontent.com/ThomasArya/ThomasArya/output/pacman-contribution-graph.svg" alt="Pac-Man" width="100%" />
 
 </div>
 
