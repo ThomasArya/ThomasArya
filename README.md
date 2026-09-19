@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/aurora.svg">
-  <img src="./assets/aurora.svg" alt="ThomasArya" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/anime.svg">
+  <img src="./assets/anime.svg" alt="Anime" width="100%" />
 </picture>
 
 <br />
@@ -61,7 +61,7 @@
 <br />
 <br />
 
-<img src="https://raw.githubusercontent.com/ThomasArya/ThomasArya/output/github-contribution-grid-snake-dark.svg" alt="Snake" width="100%" />
+<img src="https://raw.githubusercontent.com/ThomasArya/ThomasArya/output/pacman-contribution-graph.svg" alt="Pac-Man" width="100%" />
 
 </div>
 
