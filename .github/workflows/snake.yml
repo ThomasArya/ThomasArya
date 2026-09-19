@@ -14,13 +14,8 @@ jobs:
         with:
           github_user_name: ThomasArya
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: abozanona/pacman-contribution-graph@main
-        with:
-          github_user_name: ThomasArya
-          theme: github
-          output: dist/pacman-contribution-graph.svg
+            dist/github-contribution-grid-snake.svg?color_snake=#ff9ecb&color_dots=#ffe3f1,#ffc0e0,#ff96cd,#ff66b8,#e23d98
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#ff9ecb&color_dots=#3a2a4a,#f7a8d8,#f283c4,#e758ab,#c22879
       - uses: crazy-max/ghaction-github-pages@v4
         with: { target_branch: output, build_dir: dist }
         env:

@@ -63,11 +63,6 @@
 
 <img src="https://raw.githubusercontent.com/ThomasArya/ThomasArya/output/github-contribution-grid-snake-dark.svg" alt="Snake" width="100%" />
 
-<br />
-<br />
-
-<img src="https://raw.githubusercontent.com/ThomasArya/ThomasArya/output/pacman-contribution-graph.svg" alt="Pac-Man" width="100%" />
-
 </div>
 
 <br />
