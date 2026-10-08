@@ -59,16 +59,3 @@
     <animate attributeName="fill" values="#22D3EE;#A855F7;#22D3EE" dur="4s" repeatCount="indefinite"/>
   </rect>
 </svg>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=ThomasArya&color=22D3EE&style=flat-square" alt="Views" />
-
-<svg width="400" height="20" viewBox="0 0 400 20" xmlns="http://www.w3.org/2000/svg">
-  <text x="200" y="14" text-anchor="middle" fill="#22D3EE" font-size="12" font-family="monospace" opacity="0">
-    <animate attributeName="opacity" values="0;1;1;0" dur="4s" repeatCount="indefinite"/>
-    THANKS FOR VISITING!
-  </text>
-</svg>
-
-</div>
