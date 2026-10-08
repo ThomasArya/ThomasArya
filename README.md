@@ -16,11 +16,6 @@
 <br />
 <br />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/meteor.svg">
-  <img src="./assets/meteor.svg" alt="Meteor" width="100%" />
-</picture>
-
 <br />
 <br />
 
